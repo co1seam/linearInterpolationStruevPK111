@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\linearInterpolationStruevPK111\bin\Debug\linearInterpolationStruevPK111.exe.config
+C:\Users\user\source\repos\linearInterpolationStruevPK111\bin\Debug\linearInterpolationStruevPK111.exe
+C:\Users\user\source\repos\linearInterpolationStruevPK111\bin\Debug\linearInterpolationStruevPK111.pdb
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.Form1.resources
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.Properties.Resources.resources
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.csproj.GenerateResource.cache
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.exe
+C:\Users\user\source\repos\linearInterpolationStruevPK111\obj\Debug\linearInterpolationStruevPK111.pdb
